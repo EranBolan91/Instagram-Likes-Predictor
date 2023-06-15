@@ -1,0 +1,19 @@
+.bg-form{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+    margin: 20px 0;
+}
+
+.mg-t-20{
+    margin-top: 20px;
+  }
+
+#gridCheckLabel{
+    margin-left: 8px;
+}
+
+.btn-bg{
+    background-image: linear-gradient(to top left,  #405DE6, #5851DB, #833AB4, #C13584, #E1306C, #FD1D1D, #F56040, #F77737, #FCAF45, #FFDC80);
+}
